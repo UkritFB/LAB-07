@@ -326,15 +326,19 @@ SunToEarthTimeOfLight = 8.33333333333333 minutes
 
 ดาวเคราะห์ | ระยะทางจากดวงอาทิตย์ | ระยะทางในหน่วย A.U. | เวลาของแสง (นาที)
 :----:|:----:|:----:|:----: 
-Mercury |	57,910,000 km		
-Venus |	108,200,000 km		
-Earth |	149,600,000 km		
-Mars |	227,940,000 km		
-Jupiter |	778,330,000 km		
-Uranus |	2,873,550,000 km		
-Neptune |	4,501,000,000 km		
-Pluto |	5,945,900,000 km		
+Mercury |	57,910,000 km |0.3869204919|	3.2243374321	
+Venus |	108,200,000 km	|0.7229286344|6.0244052867
+Earth |	149,600,000 km	||	
+Mars |	227,940,000 km	||||	
+Jupiter |	778,330,000 km	||	
+Uranus |	2,873,550,000 km||		
+Neptune |	4,501,000,000 km||		
+Pluto |	5,945,900,000 km||		
+#Mercury
+![](https://raw.githubusercontent.com/UkritFB/LAB-07/master/7.1.PNG)
 
+#Venus
+![](https://raw.githubusercontent.com/UkritFB/LAB-07/master/7.2.PNG)
 ##คลาส Math 
 ในภาษา C# มีคลาสที่เป็นตัวช่วยคำนวณทางคณิตศาสตร์ ที่ช่วยให้เราสามารถคำนวณฟังก์ชันพื้นฐานได้ อย่างรวดเร็ว ไม่ต้องพัฒนาโปรแกรมเพิ่มเติมด้วยเอง นั่นคือคลาส Math  ฟังก์ชันทางคณิตศาสตร์ที่ใช้บ่อยๆ สามารถดูรายละเอียดทั้งหมดได้จาก 
 [system.math](http://msdn.microsoft.com/en-us/library/system.math%28v=vs.110%29.aspx) 
