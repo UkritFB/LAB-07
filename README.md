@@ -228,7 +228,7 @@ namespace thruthTable
 
 #NOR
 
-![])(https://github.com/UkritFB/LAB-07/blob/master/7NOR.PNG?raw=true)
+![](https://github.com/UkritFB/LAB-07/blob/master/7NOR.PNG?raw=true)
 
 #XOR
 
