@@ -275,6 +275,9 @@ public class intergerTest
 9.	y%8
 10.	100*x+y%2-a
 ```
+
+![](https://github.com/UkritFB/LAB-07/blob/master/7CAL.PNG?raw=true)
+
 ##2.2.3. ชนิดข้อมูลเลขทศนิยม (Floating Point and Decimal Types)
 ตัวเลขจำนวนทศนิยม มักจะใช้ในการคำนวณทางวิทยาศาสตร์ เนื่องจากค่าในวิทยาศาสตร์ต้องการความละเอียดสูง หรือมีค่าสูงมากกว่าที่เลขจำนวนเต็มจะเก็บได้
 
