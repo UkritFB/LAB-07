@@ -210,6 +210,29 @@ namespace thruthTable
 5. NOR
 6. Exclusive OR
 ```
+#AND
+
+![](https://github.com/UkritFB/LAB-07/blob/master/7AND.PNG?raw=true)
+
+#OR
+
+![](https://github.com/UkritFB/LAB-07/blob/master/7OR.PNG?raw=true)
+
+#NOT
+
+![](https://github.com/UkritFB/LAB-07/blob/master/7NOT.PNG?raw=true)
+
+#NAND
+
+![](https://github.com/UkritFB/LAB-07/blob/master/7NAND.PNG?raw=true)
+
+#NOR
+
+![])(https://github.com/UkritFB/LAB-07/blob/master/7NOR.PNG?raw=true)
+
+#XOR
+
+![](https://github.com/UkritFB/LAB-07/blob/master/7XOR.PNG?raw=true)
 
 
 
