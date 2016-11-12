@@ -414,4 +414,13 @@ The sine of       6.00 = -0.279415         *
 2.	y = cos(x)
 3.	y = tan(x)
 ```
+# Y = X*2
+![](https://github.com/UkritFB/LAB-07/blob/master/y=x2.PNG?raw=true)
+
+# Y = Cos X
+
+![](https://github.com/UkritFB/LAB-07/blob/master/Y%20=%20COS%20X.PNG?raw=true)
+
+# Y = tan X
+![](https://github.com/UkritFB/LAB-07/blob/master/Y%20=%20TAN%20X.PNG?raw=true)
 	
